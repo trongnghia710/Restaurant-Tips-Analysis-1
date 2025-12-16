@@ -1,4 +1,4 @@
-# Restaurant-Tips-Analysis
+# Restaurant Revenue & Customer Behavior Analysis Project
 
 <img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/82a46f04-e2a2-4733-a16c-93aa8da47d52" />
 
